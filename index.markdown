@@ -14,7 +14,8 @@ layout: home
 <span class='anchor' id='about-me'></span>
 
 I am currently pursuing a master's degree in computer science at East China Normal University and I graduated from the School of Computer Science and Technology, Huaqiao University with a bachelor's degree. 
-My research interests include bioinformatics, ai for science, graph neural network and generative models. I have published several papers in top-tier conferences and journals.
+
+My research interests include bioinformatics, ai for science, graph neural network and generative models. I have published several papers in conferences and journals.
 
 # 📝 Publications 
 

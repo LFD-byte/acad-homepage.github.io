@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: "/acad-homepage.github.io/#about-me"
 
-  - title: "News"
-    url: "/acad-homepage.github.io/#-news"
+#  - title: "News"
+#    url: "/acad-homepage.github.io/#-news"
 
   - title: "Publications"
     url: "/acad-homepage.github.io/#-publications"
@@ -15,8 +15,8 @@ main:
   - title: "Educations"
     url: "/acad-homepage.github.io/#-educations"
 
-  - title: "Invited Talks"
-    url: "/acad-homepage.github.io/#-invited-talks"
+#  - title: "Invited Talks"
+#    url: "/acad-homepage.github.io/#-invited-talks"
 
-  - title: "Internships"
-    url: "/acad-homepage.github.io/#-internships"
+#  - title: "Internships"
+#    url: "/acad-homepage.github.io/#-internships"

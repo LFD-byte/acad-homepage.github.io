@@ -24,7 +24,7 @@ My research interests include bioinformatics, ai for science, graph neural netwo
 **Huifa Li**, Jie Fu, Zhili Chen, Xiaomin Yang, Haitao Liu, Xinpeng Ling
 
 - Multi-Scale Graph Contrastive Learning for Clustering Single-Cell RNA-Seq.
-**Huifa Li**, Jie Fu, Xinpeng Ling, Tong Cheng, Zhili Chen, Junqing Gong
+**Huifa Li**, Jie Fu, Xinpeng Ling, Tong Cheng, Zhili Chen, Junqing Gong.
 
 - `BIBM 2024` [Single-cell Curriculum Learning-based Deep Graph Embedding Clustering](https://arxiv.org/pdf/2408.10511).
 **Huifa Li**, Jie Fu, Xinpeng Ling, Zhiyu Sun, Kuncan Wang, Zhili Chen

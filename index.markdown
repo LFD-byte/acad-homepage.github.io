@@ -15,7 +15,8 @@ layout: home
 
 I am currently pursuing a master's degree in computer science at East China Normal University and I graduated from the School of Computer Science and Technology, Huaqiao University with a bachelor's degree. 
 
-My research interests include bioinformatics, ai for science, graph neural network and generative models. I have published several papers in conferences and journals <a href='https://scholar.google.com/citations?user=vcIXSBMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interests include bioinformatics, ai for science, graph neural network and generative models. I have published several papers in conferences and journals 
+<a href='https://scholar.google.com/citations?user=vcIXSBMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 📝 Publications 
 
@@ -25,7 +26,7 @@ My research interests include bioinformatics, ai for science, graph neural netwo
 - Multi-Scale Graph Contrastive Learning for Clustering Single-Cell RNA-Seq.
 **Huifa Li**, Jie Fu, Xinpeng Ling, Tong Cheng, Zhili Chen, Junqing Gong
 
-- [Single-cell Curriculum Learning-based Deep Graph Embedding Clustering](https://arxiv.org/pdf/2408.10511).
+- `BIBM 2024` [Single-cell Curriculum Learning-based Deep Graph Embedding Clustering](https://arxiv.org/pdf/2408.10511).
 **Huifa Li**, Jie Fu, Xinpeng Ling, Zhiyu Sun, Kuncan Wang, Zhili Chen
 
 - [FedFDP: Federated Learning with Fairness and Differential Privacy](https://arxiv.org/pdf/2402.16028).

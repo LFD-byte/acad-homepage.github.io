@@ -39,7 +39,7 @@ Tong Cheng, Jie Fu, Xinpeng Ling, Zhili Chen, **Huifa Li**, Wendy Hui Wang, Junq
 Benchang Dong, Zhili Chen, Junqing Gong, Xin Chen, Jie Fu, **Huifa Li**, Shiwen Wei
 
 # 📖 Educations
-- *2022.09 - 2024.08 (now)*, Master, East China Normal University, Shanghai. 
+- *2022.09 - (now)*, Master, East China Normal University, Shanghai. 
 - *2018.09 - 2022.06*, Undergraduate, Huaqiao University, Xiamen.
 
 # 🎖 Honors and Awards

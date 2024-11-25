@@ -29,20 +29,22 @@ My research interests include bioinformatics, ai for science, graph neural netwo
 - `Submitted to 2025 AAAI` Multi-Scale Graph Contrastive Learning for Clustering Single-Cell RNA-Seq.
 **Huifa Li**, Jie Fu, Xinpeng Ling, Tong Cheng, Zhili Chen, Junqing Gong.
 
-- [FedFDP: Federated Learning with Fairness and Differential Privacy](https://arxiv.org/pdf/2402.16028).
-Xinpeng Ling, Jie Fu, Kuncan Wang, **Huifa Li**, Tong Cheng, Zhili Chen
-
-- EC-LDA: Embedding Compression-Label Distribution Inference Attack against Federated Graph Learning.
+- `Submitted to 2025 AAAI` EC-LDA: Embedding Compression-Label Distribution Inference Attack against Federated Graph Learning.
 Tong Cheng, Jie Fu, Xinpeng Ling, Zhili Chen, **Huifa Li**, Wendy Hui Wang, Junqing Gong
 
-- CBNN: 3-Party Secure Framework for Customized Binary Neural Networks Inference.
+- `Submitted to 2025 AAAI` CBNN: 3-Party Secure Framework for Customized Binary Neural Networks Inference.
 Benchang Dong, Zhili Chen, Junqing Gong, Xin Chen, Jie Fu, **Huifa Li**, Shiwen Wei
+
+- `Submitted to 2025 DASFAA` [FedFDP: Federated Learning with Fairness and Differential Privacy](https://arxiv.org/pdf/2402.16028).
+Xinpeng Ling, Jie Fu, Kuncan Wang, **Huifa Li**, Tong Cheng, Zhili Chen
 
 # 📖 Educations
 - *2022.09 - (now)*, Master, East China Normal University, Shanghai. 
 - *2018.09 - 2022.06*, Undergraduate, Huaqiao University, Xiamen.
 
 # 🎖 Honors and Awards
-- *2021.06* First Prize in Fujian Province, China Undergraduate Mathematical Contest in Modeling. 
-- *2020.12* Merit Student of Huaqiao University. 
-- *2020.11* First Prize in Fujian Province, Blue Bridge Cup National Software and Information Technology Professional Talent Competition. 
+- *2023* Second Prize of WPPCC
+- *2022* Students Graduated with Honors of Huaqiao University
+- *2021* First Prize in Fujian Province, China Undergraduate Mathematical Contest in Modeling. 
+- *2020* Merit Student of Huaqiao University. 
+- *2020* First Prize in Fujian Province, Blue Bridge Cup National Software and Information Technology Professional Talent Competition. 

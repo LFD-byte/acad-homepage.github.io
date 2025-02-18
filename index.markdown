@@ -26,17 +26,17 @@ My research interests include bioinformatics, ai for science, graph neural netwo
 - `BIBM 2024` [Single-cell Curriculum Learning-based Deep Graph Embedding Clustering](https://arxiv.org/pdf/2408.10511).
 **Huifa Li**, Jie Fu, Xinpeng Ling, Zhiyu Sun, Kuncan Wang, Zhili Chen
 
-- Multi-Scale Graph Contrastive Learning for Clustering Single-Cell RNA-Seq.
+- `Submitted to 2025 IJCAI` Multi-View Graph Self-Supervised Learning for Clustering Single-Cell RNA-Seq.
 **Huifa Li**, Jie Fu, Xinpeng Ling, Tong Cheng, Zhili Chen, Junqing Gong.
 
-- EC-LDA: Embedding Compression-Label Distribution Inference Attack against Federated Graph Learning.
+- `Submitted to 2025 IJCAI` EC-LDA: Embedding Compression-Label Distribution Inference Attack against Federated Graph Learning.
 Tong Cheng, Jie Fu, Xinpeng Ling, Zhili Chen, **Huifa Li**, Wendy Hui Wang, Junqing Gong
-
-- CBNN: 3-Party Secure Framework for Customized Binary Neural Networks Inference.
-Benchang Dong, Zhili Chen, Junqing Gong, Xin Chen, Jie Fu, **Huifa Li**, Shiwen Wei
 
 - `Submitted to 2024 TDSC` [FedFDP: Federated Learning with Fairness and Differential Privacy](https://arxiv.org/pdf/2402.16028).
 Xinpeng Ling, Jie Fu, Kuncan Wang, **Huifa Li**, Tong Cheng, Zhili Chen
+
+- CBNN: 3-Party Secure Framework for Customized Binary Neural Networks Inference.
+Benchang Dong, Zhili Chen, Junqing Gong, Xin Chen, Jie Fu, **Huifa Li**, Shiwen Wei
 
 # 📖 Educations
 - *2022.09 - (now)*, Master, East China Normal University, Shanghai. 

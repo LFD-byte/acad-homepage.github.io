@@ -18,24 +18,24 @@ I am currently pursuing a master's degree in computer science at East China Norm
 My research interests include bioinformatics, ai for science, graph neural network and generative models. I have published several papers in conferences and journals 
 <a href='https://scholar.google.com/citations?user=vcIXSBMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
-# 📝 Publications 
+# 📝 Publications
 
-- <code class="language-plaintext highlighter-rouge">ICIC 2024</code> [DP-DCAN: Differentially Private Deep Contrastive Autoencoder Network for Single-cell Clustering](https://arxiv.org/pdf/2311.03410).
-**Huifa Li**, Jie Fu, Zhili Chen, Xiaomin Yang, Haitao Liu, Xinpeng Ling
+- `Submitted to 2025 BIBM` [scAGC: Learning Adaptive Cell Graphs with Contrastive Guidance for Single-Cell Clustering](https://arxiv.org/abs/2408.10511).
+**Huifa Li**, Jie Fu, Xinlin Zhuang, Haolin Yang, Xinpeng Ling, Tong Cheng, Imran Razzak, Zhili Chen
 
-- `BIBM 2024` [Single-cell Curriculum Learning-based Deep Graph Embedding Clustering](https://arxiv.org/pdf/2408.10511).
+- `BIBM 2024` [Single-cell Curriculum Learning-based Deep Graph Embedding Clustering](https://arxiv.org/abs/2408.10511).
 **Huifa Li**, Jie Fu, Xinpeng Ling, Zhiyu Sun, Kuncan Wang, Zhili Chen
 
-- `Submitted to 2025 IJCAI` Multi-View Graph Self-Supervised Learning for Clustering Single-Cell RNA-Seq.
-**Huifa Li**, Jie Fu, Xinpeng Ling, Tong Cheng, Zhili Chen, Junqing Gong.
+- <code class="language-plaintext highlighter-rouge">ICIC 2024</code> [DP-DCAN: Differentially Private Deep Contrastive Autoencoder Network for Single-cell Clustering](https://arxiv.org/abs/2311.03410).
+**Huifa Li**, Jie Fu, Zhili Chen, Xiaomin Yang, Haitao Liu, Xinpeng Ling
 
-- `Submitted to 2025 IJCAI` EC-LDA: Embedding Compression-Label Distribution Inference Attack against Federated Graph Learning.
+- `arXiv 2025` EC-LDA: Embedding Compression-Label Distribution Inference Attack against Federated Graph Learning.
 Tong Cheng, Jie Fu, Xinpeng Ling, Zhili Chen, **Huifa Li**, Wendy Hui Wang, Junqing Gong
 
-- `Submitted to 2024 TDSC` [FedFDP: Federated Learning with Fairness and Differential Privacy](https://arxiv.org/pdf/2402.16028).
+- `arXiv 2024` [FedFDP: Federated Learning with Fairness and Differential Privacy](https://arxiv.org/pdf/2402.16028).
 Xinpeng Ling, Jie Fu, Kuncan Wang, **Huifa Li**, Tong Cheng, Zhili Chen
 
-- CBNN: 3-Party Secure Framework for Customized Binary Neural Networks Inference.
+- `arXiv 2024` [CBNN: 3-Party Secure Framework for Customized Binary Neural Networks Inference](https://arxiv.org/abs/2412.16449).
 Benchang Dong, Zhili Chen, Junqing Gong, Xin Chen, Jie Fu, **Huifa Li**, Shiwen Wei
 
 # 📖 Educations

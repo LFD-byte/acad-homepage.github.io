@@ -13,7 +13,7 @@ layout: home
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a visiting student at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), advised by Prof. Imran Razzak and Prof. Bin Zhang. I recently graduated from East China Normal University with a master's degree in software engineering, where I was supervised by Prof. Zhili Chen. I completed my undergraduate studies at the School of Computer Science and Technology, Huaqiao University. 
+I am currently a visiting student at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), advised by Prof. [Imran Razzak](https://imranrazzak.github.io/) and Prof. [Bin Zhang](https://mbzuai.ac.ae/study/faculty/bin-zhang/). I recently graduated from East China Normal University with a master's degree in software engineering, where I was supervised by Prof. [Zhili Chen](https://faculty.ecnu.edu.cn/_s43/czl2/main.psp). I completed my undergraduate studies at the School of Computer Science and Technology, Huaqiao University. 
 
 My research interests include ai for biology, graph neural network and LLM. I have published several papers in conferences 
 <a href='https://scholar.google.com/citations?user=vcIXSBMAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
